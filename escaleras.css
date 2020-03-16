@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(sanatorio.jpg);
+	text-align: center;
+	padding-top: 100px; 
+	margin:15px auto;
+	width:900px;
+}
+figcaption{
+	background-color: rgba(73,73,73,1.00);
+	color:rgba(205,205,205,1.00);
+	font-size: 15px;
+	
+}
+
+figure{
+	float: left;
+	
+}
+figure img{
+	border: 3px rgba(171,171,171,1.00) solid;
+	border-radius: 10px;
+	width: 300px;
+	height: 300px;
+	
+		
+}
+a{
+	color: rgba(236,236,236,1.00);
+}

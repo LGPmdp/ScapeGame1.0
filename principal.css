@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image: url(depositphotos_107435952-stock-photo-dark-brick-wall-background.jpg);
+	
+}
+h1{
+	margin: 10px auto;
+	text-align: center;
+	font-size: 36px;
+	margin-top: 20px;
+	border:5px rgba(0,0,0,1.00) solid;
+	width: 500px;
+	border-radius: 10px;
+	box-shadow:rgba(146,146,146,1.00) 5px 5px 5px;
+	text-shadow: rgba(146,146,146,1.00) 5px 5px 10px;
+	outline: rgba(204,204,204,1.00) dashed 3px;
+}
+h3{
+	font:bold 30px oblique;
+	color: rgba(255,0,4,1.00);
+	padding-left: 30px;
+	border: rgba(171,3,6,1.00) solid 3px;
+	background-color: rgba(255,0,4,1.00);
+	width: 300px;
+}
+section{
+	text-align: center;
+	width: 800px;
+	padding: 15px auto;
+	margin: 15px auto;
+	font-size:  26px;
+	background-color: rgba(73,73,73,1.00);
+	
+	color:rgba(205,205,205,1.00);
+}
+a{
+	color: rgba(236,236,236,1.00);
+}
